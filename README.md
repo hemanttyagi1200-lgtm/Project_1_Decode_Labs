@@ -52,7 +52,11 @@ python rule_based_chatbot.py
 
 ## 📸 Output
 
-(Add your chatbot screenshot here)
+## 📸 Output
+
+## 📸 Output
+
+![Chatbot Output](images/Rule_based_Chatbot.png)
 
 ---
 
